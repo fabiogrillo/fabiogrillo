@@ -1,4 +1,4 @@
-# 👋 Hey! Nice to see you ![](https://visitor-badge.glitch.me/badge?page_id=fabiogrillo.fabiogrillo-badge&left_color=red&right_color=green)
+# 👋 Hey! Nice to see you <!-- ![](https://visitor-badge.glitch.me/badge?page_id=fabiogrillo.fabiogrillo-badge&left_color=red&right_color=green) -->
 
 
 <a href="https://www.instagram.com/fabio.grillo_/">
