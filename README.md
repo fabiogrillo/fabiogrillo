@@ -5,10 +5,6 @@
   <img align="left"  alt="FabioGrillo's Instagram" width="26px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/fabgrillo">
-  <img align="left" alt="FabioGrillo's LinkedIn" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 
 <br/><br/>
 
