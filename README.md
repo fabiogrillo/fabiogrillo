@@ -8,9 +8,7 @@
 
 <br/><br/>
 
-  💻 My name is Fabio Grillo and I am a student of Computer Engineering - Artificial Intelligence and Data Analytics - at Politecnico di Torino
-
-  👨‍🎓 I am currently pursuing a master's degree and writing a thesis using reinforcement learning as main topic
+  💻 My name is Fabio Grillo and I am a Computer Engineer - Artificial Intelligence and Data Analytics
 
   ☝️ Here on github you can find some of my university projects or other projects I have participated in or found on the web that you can share. 
   If you would like to contact me in any way, I left links for my social channels above
