@@ -1,19 +1,14 @@
-# 👋 Hey! Nice to see you <!-- ![](https://visitor-badge.glitch.me/badge?page_id=fabiogrillo.fabiogrillo-badge&left_color=red&right_color=green) -->
+# 👋 Hey! Nice to see you <!-- ![](https://visitor-badge.glitch.me/badge?page_id=fabiogrillo.fabiogrillo-badge&left_color=red&right_color=green) --> ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=fabiogrillo)
 
+<a href="https://www.linkedin.com/in/fabgrillo">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:fabiogrillo123@gmail.com">![fabiogrillo123@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-<a href="https://www.instagram.com/fabio.grillo_/">
-  <img align="left"  alt="FabioGrillo's Instagram" width="26px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-
-
-<br/><br/>
-
-  💻 My name is Fabio Grillo and I am a Computer Engineer - Artificial Intelligence and Data Analytics
-
-  ☝️ Here on github you can find some of my university projects or other projects I have participated in or found on the web that you can share. 
-  If you would like to contact me in any way, I left links for my social channels above
+Hello, my name is Fabio Grillo and I am a data engineer. I graduated in 2023 in Computer Engineering at Politecnico di Torino in Italy and in the meanwhile I have developed a passion for data. I wrote my master thesis on reinforcement learning and you can find the repo [here](https://github.com/fabiogrillo/RL_trading_thesis).  
+Here on github you can find some of my university projects or other projects I have participated in or found on the web that you can share. If you would like to contact me in any way, I left links for my social channels above.
 
 ### 📚 Things I code with:
+<div align="center">
+  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,4 +32,18 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+</div>
 
+### 📊 Stats:
+
+<div align="center">
+  <p>Github:</p>
+  
+  ![Overall Stats](https://github-readme-stats.vercel.app/api?username=fabiogrillo&count_private=true&show_icons=true&hide=contribs&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiogrillo&theme=dark&layout=compact)
+
+  <p>LeetCode:</p>
+  
+  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Carabaggio&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+  
+</div>
