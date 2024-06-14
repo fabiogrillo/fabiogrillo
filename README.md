@@ -37,10 +37,6 @@ Here on github you can find some of my university projects or other projects I h
 ### 📊 Stats:
 
 <div align="center">
-  <p>Github:</p>
-  
-  ![Overall Stats](https://github-readme-stats.vercel.app/api?username=fabiogrillo&count_private=true&show_icons=true&hide=contribs&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiogrillo&theme=dark&layout=compact)
 
   <p>LeetCode:</p>
   
