@@ -33,13 +33,3 @@ Here on github you can find some of my university projects or other projects I h
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 </div>
-
-### 📊 Stats:
-
-<div align="center">
-
-  <p>LeetCode:</p>
-  
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Carabaggio&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-  
-</div>
